@@ -4,4 +4,5 @@ php:
     7.3
 
 script:
+    - pecl install uopz
     - php -m
